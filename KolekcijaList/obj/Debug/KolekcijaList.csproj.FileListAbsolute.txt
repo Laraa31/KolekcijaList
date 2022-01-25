@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\KolekcijaList\obj\Debug\KolekcijaList.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\KolekcijaList\obj\Debug\KolekcijaList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\KolekcijaList\obj\Debug\KolekcijaList.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\KolekcijaList\bin\Debug\KolekcijaList.exe.config
+C:\Users\ucenik\source\repos\KolekcijaList\bin\Debug\KolekcijaList.exe
+C:\Users\ucenik\source\repos\KolekcijaList\bin\Debug\KolekcijaList.pdb
+C:\Users\ucenik\source\repos\KolekcijaList\obj\Debug\KolekcijaList.exe
+C:\Users\ucenik\source\repos\KolekcijaList\obj\Debug\KolekcijaList.pdb
